@@ -1,10 +1,11 @@
 [user]
-	name = Robert Grant
-	email = rhgrant10@gmail.com
+	name = Robert Graham
+	email = rprgaham84@gmail.com
 [color]
 	ui = auto
 	status = always
 [alias]
+	st = status
 	hist = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --graph --date=short
 [push]
 	default = current
